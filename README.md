@@ -13,3 +13,5 @@ This is the solution to Problem Statement 1 &amp; 2 of LaRoboLiga-24 by PK Coder
  - Gym
 
 ### Short GIF of the solving of problem statements
+![](https://github.com/Shubham-Mate/LaRoboLiga-24-Solution/blob/main/recording.gif)
+![](https://github.com/Shubham-Mate/LaRoboLiga-24-Solution/blob/main/ps2.gif)
